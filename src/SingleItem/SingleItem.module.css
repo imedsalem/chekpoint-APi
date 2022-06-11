@@ -1,0 +1,15 @@
+.container{
+    border: 2px solid blue;
+    padding: 20px;
+    border-radius: 40px;
+    width: 285px;
+}
+.name, .p{
+    text-align: center;
+}
+.img{
+    width: 160px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}

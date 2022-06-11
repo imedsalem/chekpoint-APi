@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap
+}
+.title{
+    text-align : center;
+    font-size: 60px;
+}
+.containerTitle{
+    width: 100%
+}
